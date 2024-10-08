@@ -6,6 +6,7 @@ function App() {
     <>
       <div>
         <h1>Start</h1>
+        <p>This is HETEC social media app</p>
       </div>
     </>
   )
