@@ -1,12 +1,12 @@
 import './App.css'
+import Home from './pages/Home'
 
 function App() {
 
   return (
     <>
       <div>
-        <h1>Start</h1>
-        <p>This is HETEC social media app</p>
+        <Home />
       </div>
     </>
   )
